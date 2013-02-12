@@ -1,0 +1,45 @@
+ 
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+</head>
+<body>
+</body>
+</html>
+<!DOCTYPE HTML>
+<html>
+<head>
+</head>
+<body>
+</body>
+</html>
+body {
+    background-color: #11A9E2;
+    background-image: -moz-linear-gradient(#0D86B3, #11A9E2);
+    background-repeat: no-repeat;
+    font: 14px/20px "Helvetica Neue",Helvetica,Arial,sans-serif;
+    padding: 100px;
+    text-rendering: optimizelegibility;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.25);
+}
+h1, h2, p {
+    color: rgba(255, 255, 255, 0.75);
+    text-align: center;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.25);
+}
+h1 {
+    color: #FFFFFF;
+    font: bold 100px/1 "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin: 0;
+    text-shadow: 0 1px 0 #CCCCCC, 0 2px 0 #C9C9C9, 0 3px 0 #BBBBBB, 0 4px 0 #B9B9B9, 0 5px 0 #AAAAAA, 0 6px 1px rgba(0, 0, 0, 0.1), 0 0 5px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.3), 0 3px 5px rgba(0, 0, 0, 0.2), 0 5px 10px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.2), 0 20px 20px rgba(0, 0, 0, 0.15);
+}
+h1:hover {
+    cursor: text;
+}
+h1:focus {
+    outline: medium none;
+}
+p {
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.25);
+}
+

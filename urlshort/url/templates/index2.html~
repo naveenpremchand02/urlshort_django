@@ -1,0 +1,43 @@
+<html>
+<head>
+
+
+
+	
+	<title>url shortener</title>
+	
+
+  	
+  
+</head>
+<body background='http://www.dotfoods.com/images/cloud_background.jpg'>
+<div id="container">
+<center><div id="header"><marquee behavior="scroll" bgcolor="#00CCCC" loop="-1" width="30%"><h2>Url shortener</h2></marquee></div>
+    
+	
+		<form name="graph" >							
+			<div>
+				<div>
+					
+		
+		</form>
+		<div align="center">
+			
+			<form action="/redirect" method="POST">
+			
+			<textarea cols="60" rows="3" name="content"></textarea>
+
+			<table>
+			<td><input type="submit" value="Shorten" /></td>
+			<td><input type="reset" /></td>
+			
+			
+		</div>
+<center>
+
+		
+      
+    </div>
+  
+</body>
+</html>
